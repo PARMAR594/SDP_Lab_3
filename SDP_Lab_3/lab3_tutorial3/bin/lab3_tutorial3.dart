@@ -17,7 +17,7 @@ void main(List<String> arguments) {
 
       // In fact, strings are also lying on the numbers using the "UTF-16 Code Units", let's see how it is working.
 
-        var name = 'Vedant Parikh';
+        var name = 'JayShree Parmar';
         print(name.codeUnits);
 
         // Output : [86, 101, 100, 97, 110, 116, 32, 80, 97, 114, 105, 107, 104]
